@@ -1,0 +1,2 @@
+obj-m				:= nvmem-picoxcell-axifuse.o
+nvmem-picoxcell-axifuse-y	:= picoxcell-axifuse.o

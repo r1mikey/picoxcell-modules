@@ -1,0 +1,1 @@
+obj-m				:= picoxcell_snoop_edac.o
