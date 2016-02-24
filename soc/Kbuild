@@ -1,0 +1,3 @@
+obj-m				:= picoxcell-config-port.o picoxcell-sdgpio.o
+picoxcell-sdgpio-y		:= sdgpio.o
+picoxcell-config-port-y		:= config_port.o

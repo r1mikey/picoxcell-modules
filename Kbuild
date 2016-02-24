@@ -1,1 +1,1 @@
-obj-y		:= char/ edac/ nvmem/
+obj-y		:= char/ edac/ nvmem/ soc/
